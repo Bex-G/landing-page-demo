@@ -5,6 +5,19 @@ body {
     flex-direction: column;
 }
 
+img {
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+    border-radius: 5%;
+}
+
+#black-cat {
+    height: 400;
+    width: 600px;
+    border-radius: 0%;
+}
+
 .header {
     background-color: #1F2937;
 }
