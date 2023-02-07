@@ -134,8 +134,19 @@ a {
 }
 
 .cta {
-    background-color: #3882F6;
     color:#E5E7EB;
+    display: flex;
+    justify-content: center;
+    margin: 1cm;
+}
+
+.button-box {
+    background-color: #3882F6;
+    width: 900px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
 }
 
 button {
@@ -150,4 +161,5 @@ button {
     background-color: #1F2937;
     color: #E5E7EB;
     padding: 24;
+    text-align: center;
 }
