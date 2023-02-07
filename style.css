@@ -86,12 +86,14 @@ a {
     color: #1F2937;
     text-align: center;
     padding: 16px;
+    margin-top: 1cm;
 }
 
 .cats {
     display: flex;
     justify-content: center;
     gap: 1.5cm;
+    margin-bottom: 1cm;
 }
 
 .info {
@@ -162,4 +164,5 @@ button {
     color: #E5E7EB;
     padding: 24;
     text-align: center;
+    padding: 24px;
 }
